@@ -1,0 +1,3 @@
+/root/CLionProjects/Capitalize-the-entered-words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/Capitalize-the-entered-words/cmake-build-debug/CMakeFiles/Capitalize_the_entered_words.dir
+/root/CLionProjects/Capitalize-the-entered-words/cmake-build-debug/CMakeFiles/edit_cache.dir

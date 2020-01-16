@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Capitalize_the_entered_words.dir/main.c.o  -o Capitalize_the_entered_words 
